@@ -1,2 +1,4 @@
 # OnlineJudge
-a online judge system base vue.js&amp;node.js
+
+基于node.js实现的在线评测系统
+
